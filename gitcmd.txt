@@ -1,0 +1,14 @@
+1.远程仓库准备(github  public)
+2.git 客户端准备
+3.初始化本地仓库(指定目录)
+   git init 
+4.添加文件到暂存区
+   git add 文件名 
+   git add .
+5.提交文件到本地仓库
+   git commit  -m "注释内容"
+6.绑定本地仓库到远程url
+   git remote add origin url
+7.推送本地仓库文件到远程仓库
+   git push -u origin 
+   
